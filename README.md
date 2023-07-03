@@ -1,4 +1,4 @@
-# GOAT
+# GOAT: A Global Transformer on Large-scale Graphs
 
 This is the official repository for our paper [GOAT: A Global Transformer on Large-scale Graphs](https://openreview.net/pdf?id=Le2dVIoQun), accepted by ICML 2023.
 
@@ -24,7 +24,7 @@ python arxiv_ERM_ns.py \
     --dataset [dataset name] \
     --conv_type local \
     --data_root [ogb data downloading root path] \
-    --linkx_data_root [linkx data downloading root path]
+    --linkx_data_root [linkx data downloading root path] \
     --data_downloading_flag
 ```
 
