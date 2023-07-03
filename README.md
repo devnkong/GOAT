@@ -4,7 +4,7 @@ This is the official repository for our paper [GOAT: A Global Transformer on Lar
 
 **TL;DR:** GOAT is a scalable global transformer working on large-scale homophilious & heterophilious graphs with millions of nodes.
 
-![Framework](framework.png)
+<img src="framework.png" alt="Framework" width="65%">
 
 ## Requirements
 
